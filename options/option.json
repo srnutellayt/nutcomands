@@ -1,0 +1,10 @@
+{
+    "botName": "NutellaBot",
+    "ownerName": "Flavin",
+    "BarBarKey": "YOUR_APIKEY",
+    "ownerNumbers": "https://wa.me/+14305410563",
+    "languages": "ind",
+    "botPrefix": "f",
+    "memberLimitss": "25",
+    "userDefaultLimit": "30"
+}
